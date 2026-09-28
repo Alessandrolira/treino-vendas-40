@@ -1,6 +1,6 @@
 {
   "name": "treino-vendas-plano-saude",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Simula um cliente de plano de saude (Porto, SulAmerica, Amil ou Bradesco) por WhatsApp para treinar vendedores, e gera um relatorio de desempenho ao final.",
   "author": {
     "name": "Alessandro"
