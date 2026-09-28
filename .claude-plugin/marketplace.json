@@ -1,0 +1,17 @@
+{
+  "name": "treino-vendas-w3g",
+  "owner": {
+    "name": "Alessandro"
+  },
+  "metadata": {
+    "description": "Marketplace de plugins de treino de vendas.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "treino-vendas-plano-saude",
+      "source": "./treino-vendas-plano-saude",
+      "description": "Simula um cliente de plano de saude (Porto, SulAmerica, Amil ou Bradesco) por WhatsApp para treinar vendedores, e gera um relatorio de desempenho ao final."
+    }
+  ]
+}
